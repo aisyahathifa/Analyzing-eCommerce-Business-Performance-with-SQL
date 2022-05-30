@@ -1,0 +1,3 @@
+# Analyzing-eCommerce-Business-Performance-with-SQL
+“Measuring business performance is very important for every company. It will help you assess your current market, access new customers and find new business opportunities. This time, I will analyze business performance of an eCommerce by reviewing its customer growth, products quality and payment methods.
+The dataset that will be used today has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. I will perform the analysis using PostgreSQL and create the visualization using Tableau.”
